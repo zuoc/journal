@@ -1,7 +1,7 @@
 Sharing is Therapeutic
 ======================
 
-Sharing things (in this case, online) is a very theraputic exercise.
+Sharing things (in this case, online) is a very therapeutic exercise.
 
 When I wrote my rather embarrassing [blog post](https://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred) about being diagnosed with Bipolar Disorder (Type I),
 I was very surprised by the tremendous amount of positive feedback that I got from
