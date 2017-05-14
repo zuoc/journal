@@ -14,7 +14,7 @@ that I have, and feel accepted by a community for the whole of who I am, flaws a
 
 I've observed that *within your greatness weaknes, there often lies your greatest strength* (the inverse of which is also true).
 
-I think people should share, in a thoughtful manner, more than they often do.
+I think people (at least people like me) should share, in a thoughtful manner, more than they often do.
 
 Essays are an excellent way to share thoughts about things, but taken in the form of
 a blog post, many topics aren't always appropriate (e.g. "opinion peices") for the medium.
