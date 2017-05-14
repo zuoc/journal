@@ -12,7 +12,7 @@ doing so.
 This allowed me to really feel comfortable with both this servere problem
 that I have, and feel accepted by a community for the whole of who I am, flaws and all.
 
-I've observed that *within your greatness weaknes, there often lies your greatest strength* (the inverse of which is also true).
+I've observed that *within your greatness weakness, there often lies your greatest strength* (the inverse of which is also true).
 
 I think people (at least people like me) should share, in a thoughtful manner, more than they often do.
 
