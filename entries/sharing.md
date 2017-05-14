@@ -7,7 +7,10 @@ When I wrote my rather emberassing [blog post](https://www.kennethreitz.org/essa
 I was very surprised by the tremendous amount of positive feedback that I got from
 my audience. I was sharing what is admittedly the most humiliating thing that could
 possibly happen to me, and I heard back from the mob almost nothing but praise for
-doing so.
+doing so. This allowed me to really feel comfortable with both this servere problem
+that I have, and feel accepted by a community, flaws and all.
+
+I've observed that *within your greatness weaknes, there often lies your greatest strength* (the inverse of which is also true).
 
 I think people should share, in a thoughtful manner, more than they do. Essays
 are an excellent way to share thoughts about things, but taken in the form of
