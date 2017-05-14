@@ -13,7 +13,7 @@ I mostly build tools myself, you see, so I guess I need to be surrounded by
 things I wish I had built myself, in order to be in the right mindset.
 
 I could certinaly create with anything that was made available to me, not
-the best of my favorite of any tool — but it certinaly wouldn't be the same
+the best or my favorite of any tool — but it certinaly wouldn't be the same
 for me. I wouldn't be enjoying myself.
 
 That's why I develop software in Python. It inspires me.
