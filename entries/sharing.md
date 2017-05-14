@@ -1,5 +1,5 @@
-Sharing is Theraputic
-=====================
+Sharing is Therapeutic
+======================
 
 Sharing things (in this case, online) is a very theraputic exercise.
 
