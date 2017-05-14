@@ -3,18 +3,19 @@ Sharing is Therapeutic
 
 Sharing things (in this case, online) is a very theraputic exercise.
 
-When I wrote my rather emberassing [blog post](https://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred) about being diagnosed with Bipolar Disorder,
+When I wrote my rather embarrassing [blog post](https://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred) about being diagnosed with Bipolar Disorder,
 I was very surprised by the tremendous amount of positive feedback that I got from
 my audience. I was sharing what is admittedly the most humiliating thing that could
 possibly happen to me, and I heard back from the mob almost nothing but praise for
 doing so. This allowed me to really feel comfortable with both this servere problem
-that I have, and feel accepted by a community, flaws and all.
+that I have, and feel accepted by a community for the whole of who I am, flaws and all.
 
 I've observed that *within your greatness weaknes, there often lies your greatest strength* (the inverse of which is also true).
 
-I think people should share, in a thoughtful manner, more than they do. Essays
-are an excellent way to share thoughts about things, but taken in the form of
-a blog post, many topics aren't appropriate (e.g. "opinion peices") for the medium.
+I think people should share, in a thoughtful manner, more than they often do.
+
+Essays are an excellent way to share thoughts about things, but taken in the form of
+a blog post, many topics aren't always appropriate (e.g. "opinion peices") for the medium.
 
 People should experiment with mediums more. Platforms seem to be driving our own
 experimentation with sharing (Instagram, Facebook, Twitter, etc), when really it
