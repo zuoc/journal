@@ -1,6 +1,6 @@
 # A Concise List of Personal Values
 
-One of my favorite pages of my website contains a short list of my personal
+One of my [favorite pages of my website](https://www.kennethreitz.org/values/) contains a short list of my personal
 values — good, sometimes hard, lessons that I've learned in life.
 
 - Positivity.
