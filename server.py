@@ -1,4 +1,5 @@
 import os
+from codecs import open
 
 import markdown
 import flask
@@ -18,7 +19,7 @@ class Entry(object):
 
     @property
     def html(self):
-        with open(self.path, 'rb') as f:
+        with open(self.path, 'rb', 'utf-8') as f:
             return markdown.markdown(f.read())
 
     @property
