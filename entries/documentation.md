@@ -4,7 +4,10 @@ I find it strange that most people seem to be rather horrible at writing documen
 
 Writing documentation, once you're in the mood for it, is quite easy. You simply explain how to understand/use a piece of software in a concise, midly entertaining fashion.
 
-Don't explain everything - leave some mystery. Explain what needs to be explained, and get on with it. Show some examples. Expect people to skip over most large blocks of text, so avoid them entirely.
+- Don't explain everything - leave some mystery. 
+- Explain what needs to be explained, and get on with it. 
+- Show some examples. 
+- Expect people to skip over most large blocks of text, so avoid them entirely.
 
 That's the best advice I can give to anyone trying to write better documentation (if they consider mine to be of any merit, that is).
 
