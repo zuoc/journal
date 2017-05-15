@@ -10,6 +10,6 @@ Here is a concise list of some of my favorite Python modules:
 
 Some that I've written myself:
 
-- [Crayons](https://pypi.python.org/pypi/crayons), the best terminal colors library around.
+- [Crayons](https://github.com/kennethreitz/crayons), the best terminal colors library around.
 - [Pipenv](http://pipenv.org), as it saves me hours of time.
 - [Requests](http://python-requests.org), for obvious reasons.
