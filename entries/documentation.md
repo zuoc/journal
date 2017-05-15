@@ -9,4 +9,6 @@ Writing documentation, once you're in the mood for it, is quite easy. You simply
 - Show some examples. 
 - Expect people to skip over most large blocks of text, so avoid them entirely.
 
+Ideally, the software does a good job of explaining itself. If not, you may want to consider a new approach to your design (or accept the complications of your codebase's territory).
+
 That's the best advice I can give to anyone trying to write better documentation (if they consider mine to be of any merit, that is).
