@@ -6,6 +6,6 @@ It isn't an upsettedness about anything imparticular. It isn't a crippling feeli
 
 In a sense, my depression is simply an advanced form of *boredom*. Nothing really seems to peak my interest lately.
 
-It's... kind of depressing. 
+Come to think of it...that's kind of depressing. 
 
-Ah, so that's why they call it depression. I get it now. :)
+I get it now. :)
