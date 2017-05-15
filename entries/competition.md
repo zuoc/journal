@@ -1,4 +1,4 @@
-# Competition
+# Competition and Open Source
 
 One of the things I love the most about the open source world is the lack
 of a feeling of competition. There's plenty of room for a new person to
