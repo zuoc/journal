@@ -1,4 +1,4 @@
-# Living With Resonable Regrets
+# Living With Reasonable Regrets
 
 I do my best to live life without regrets. When I sit down and think of
 things in my life I regret, I can think of *almost* nothing, which is good!
@@ -11,4 +11,4 @@ I want to build them again.
 That's what I'm missing from my life right now — a project to hack on. If
 I hadn't have built those things already, I'd have plenty to work on right now!
 
-I certinaly have no regrets, but sometimes I wish I was a little less productive.
+I certinaly have no regrets, but sometimes I wish my past self was a little less productive.
