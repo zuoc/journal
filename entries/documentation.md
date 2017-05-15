@@ -8,4 +8,6 @@ Don't explain everything - leave some mystery. Explain what needs to be explaine
 
 That's the best advice I can give to anyone trying to write better documentation (if they consider mine to be of any merit, that is).
 
+------------------
+
 P.S. Windows' lack of an mdash keyboard shortcut is mind-boggingly annoying. My biggest issue with the platform so far. 
