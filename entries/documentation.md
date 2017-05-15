@@ -10,7 +10,3 @@ Writing documentation, once you're in the mood for it, is quite easy. You simply
 - Expect people to skip over most large blocks of text, so avoid them entirely.
 
 That's the best advice I can give to anyone trying to write better documentation (if they consider mine to be of any merit, that is).
-
-------------------
-
-P.S. Windows' lack of an mdash keyboard shortcut is mind-boggingly annoying. My biggest issue with the platform so far. 
