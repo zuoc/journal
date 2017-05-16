@@ -6,10 +6,8 @@ I am not anymore.
 I wonder sometimes if I actually have bipolar disorder, or if I've simply
 experienced the long-term side-effects of experimenting with those substances.
 
-I experimented with Ayhuasca, Amanita Muscaria, Cannabis, Psilocybin, Hash, LSA, and LSD.
-
 I only experimented for "spiritual" reasons, never to get "fucked up". I didn't
-do these things often (other than the non-illegal Amanitas).
+do these things often. I did Ayhusca, for example.
 
 They altered my perception, though. And not for the better, I'd say.
 
