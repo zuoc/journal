@@ -15,7 +15,7 @@ hopefully less extreme, patterns of behavior in others.
 ## My Last "Episode"
 
 My last manic episode (which took place several months after I wrote
-my blog post on the subject, "coming out of the closet", if you wil),
+my blog post on the subject, "coming out of the closet", if you will),
 featured many visions of the afterlife, extremely deep cosmological
 insights into what's going on "behind the scenes" in daily life, and
 some extreme synesthesia between the colors of objects and emotions.
@@ -57,9 +57,18 @@ was exponentially "larger" than usual, and I was experiencing life as a
 titan. I had an invisible rod that I could use to control the flow of
 karmic gravity for my entire universe.
 
+I also believed that I was in touch with a collection of goddesses —
+mostly some combination of Athena and Iris, and that they were communing
+with me through the objects and words around me.
+
 I'm not really sure what to say about these experiences, or what to think
 of them. I just wanted to share a bit about what was going through my mind
 during this time.
+
+I believe that all of these delusions are actually the result of me having
+a hard time with "accepting the facts" around a
+[traumatic relationship](https://www.kennethreitz.org/essays/purging-the-unexpected-negative-a-narcissistic-partner). Once I accepted all the consequences of the truth of what happened, and
+forgave the person involved, all of these delusions disappeared into nothing.
 
 I deeply believe that many people live in a world not unlike that which
 I experienced, and they spend their whole lives there, unaware (to themselves,
