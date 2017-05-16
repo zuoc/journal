@@ -15,4 +15,4 @@ transported into a vast emotional landscape that is grand and immersive.
 
 Now, when I write music, I'm just making pretty sounds.
 
-Emotional stability, with the help of some medication, has it's costs I suppose.
+Emotional stability, with the help of some medication, has its downsides, I suppose.
