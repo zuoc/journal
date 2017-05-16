@@ -7,7 +7,7 @@ hospitalization) where I have experienced major breaks from reality. It's
 rather scary to think about now.
 
 It feels good to revisit these experiences, though, and to share them —
-mania isn't well understood, and I believe many more people experience
+psychosis isn't well understood, and I believe many more people experience
 it than are diagnosed. I intend to share some information about my
 experiences here, so that others can be on the lookout for similiar,
 hopefully less extreme, patterns of behavior in others.
