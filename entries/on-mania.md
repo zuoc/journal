@@ -77,5 +77,7 @@ I experienced, and they spend their whole lives there, unaware (to themselves,
 and their peers) that they are experiencing symptoms of mental illness —
 not deep revelations from upon high.
 
+Perhaps it's because of trauma?
+
 Thanks for listening!
 
