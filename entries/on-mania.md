@@ -61,6 +61,8 @@ I also believed that I was in touch with a collection of goddesses —
 mostly some combination of Athena and Iris, and that they were communing
 with me through the objects and words around me.
 
+## Trauma
+
 I'm not really sure what to say about these experiences, or what to think
 of them. I just wanted to share a bit about what was going through my mind
 during this time.
