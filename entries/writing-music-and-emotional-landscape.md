@@ -8,7 +8,7 @@ That's wonderful, but I've noticed that this has an unfortunate downside,
 compared to the times when this wasn't the case — my music is suffering
 because of it.
 
-It's a little frustrating.
+It's a little frustrating. There's an emotion there!
 
 When I listen to my [two albums](https://www.kennethreitz.org/music/), I am
 transported into a vast emotional landscape that is grand and immersive.
