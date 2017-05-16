@@ -36,7 +36,7 @@ the universe.
 
 This break from reality is known as *mania* peppered with *psychosis*.
 
-Synthestia, as it turns out, can pop its head out during a manic episode,
+Synthesia, as it turns out, can pop its head out during a manic episode,
 which is something that I experienced to an extreme degree. It also takes
 many different forms. For me, every color of every object I owned had
 significant meaning and consequence, and I started to weave all of these
