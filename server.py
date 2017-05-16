@@ -42,11 +42,13 @@ def gen_entries():
 
 
 @app.route('/')
+@common.cache.cached()
 def index():
 
     return render_template('index.html', entries=gen_entries())
 
 @app.route('/entry/<slug>')
+@common.cache.cached()
 def entry(slug):
     try:
         entry = Entry('entries/{}.md'.format(slug))
