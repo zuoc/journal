@@ -8,13 +8,12 @@ experienced the long-term side-effects of experimenting with those substances.
 
 I experimented with Ayhuasca, Amanita Muscaria, Cannabis, Psilocybin, Hash, and LSD.
 
-I only experimented for "spiritual" reasons, never to get "fucked up".
+I only experimented for "spiritual" reasons, never to get "fucked up". I didn't
+do these things often (other than the non-illegal Amanitas).
 
-I didn't do these things often (other than the non-illegal Amanitas).
+They altered my perception, though. And not for the better, I'd say.
 
-They altered my perception, though.
-
-And not for the better, I'd say.
+I don't do drugs anymore. I haven't in a long time.
 
 I'm now pro decriminalization, not legalization. A part of me feels like
 the law is there to protect me from these substances, and other people
