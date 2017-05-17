@@ -2,7 +2,7 @@ import os
 from codecs import open
 
 import redis
-import markdown
+import hypermark
 import flask
 
 from pyquery import PyQuery as pq
@@ -22,7 +22,7 @@ class Entry(object):
     @property
     def html(self):
         with open(self.path, 'rb', 'utf-8') as f:
-            return markdown.markdown(f.read())
+            return hypermark.text(f.read()).html
 
     @property
     def title(self):
@@ -72,7 +72,6 @@ def entry(slug):
     try:
         entry = Entry('entries/{}.md'.format(slug))
         entry.mark_read()
-        print entry.views
 
         return render_template('entry.html', entry=entry, entries=gen_entries())
     except IOError:

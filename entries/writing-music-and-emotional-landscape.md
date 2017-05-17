@@ -18,6 +18,4 @@ spine.
 Now, when I write music, I'm just making pretty sounds. It's almost tragic,
 in comparison.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xkft4meO4jM?start=18" frameborder="0" allowfullscreen></iframe>
-
 Emotional stability, with the help of some medication, has its downsides, I suppose.
