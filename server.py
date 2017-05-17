@@ -1,6 +1,7 @@
 import os
 from codecs import open
 
+import redis
 import markdown
 import flask
 
@@ -12,6 +13,7 @@ app = Flask(__name__)
 app.debug = True
 
 common = Common(app)
+r = redis.from_url(os.environ['REDIS_URL'])
 
 class Entry(object):
     def __init__(self, path):
@@ -30,28 +32,53 @@ class Entry(object):
     def slug(self):
         return self.path.split('/')[-1][:-3]
 
-def gen_entry_files():
+    def mark_read(self):
+        """Mark the post as read, once."""
 
-    files = ['entries/{}'.format(e) for e in os.listdir('entries')]
-    for f in reversed(sorted(files, key=os.path.getctime)):
-        yield f
+        value = r.get(self.slug)
+        r.incr(self.slug)
 
+    @property
+    def views(self):
+        """The number of views this poast has had."""
+        value = r.get(self.slug)
+        if value == 'None' or value is None:
+            value = '0'
+
+        return int(value)
+
+
+entries = []
 def gen_entries():
-    for f in gen_entry_files():
-        yield Entry(f)
+    def gen():
+        files = ['entries/{}'.format(e) for e in os.listdir('entries')]
+        for f in reversed(sorted(files, key=os.path.getctime)):
+            yield Entry(f)
+
+    if entries:
+        return entries
+
+    g = list(gen())
+    g.sort(key=lambda x: x.views, reverse=True)
+
+    global entries
+    entries = g
+    return gen_entries()
 
 
 @app.route('/')
-@common.cache.cached()
+@common.cache.cached(timeout=60)
 def index():
 
     return render_template('index.html', entries=gen_entries())
 
 @app.route('/entry/<slug>')
-@common.cache.cached()
 def entry(slug):
     try:
         entry = Entry('entries/{}.md'.format(slug))
+        entry.mark_read()
+        print entry.views
+
         return render_template('entry.html', entry=entry, entries=gen_entries())
     except IOError:
         abort(404)
