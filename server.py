@@ -48,22 +48,17 @@ class Entry(object):
         return int(value)
 
 
-entries = []
 def gen_entries():
     def gen():
         files = ['entries/{}'.format(e) for e in os.listdir('entries')]
         for f in reversed(sorted(files, key=os.path.getctime)):
             yield Entry(f)
 
-    if entries:
-        return entries
 
     g = list(gen())
     g.sort(key=lambda x: x.views, reverse=True)
 
-    global entries
-    entries = g
-    return gen_entries()
+    return g
 
 
 @app.route('/')
