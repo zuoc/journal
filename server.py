@@ -10,7 +10,6 @@ from flask import Flask, render_template, abort
 from flask_common import Common
 
 app = Flask(__name__)
-app.debug = True
 
 common = Common(app)
 r = redis.from_url(os.environ['REDIS_URL'])

@@ -1,1 +1,1 @@
-web: gunicorn server:app --worker-class="egg:meinheld#gunicorn_worker"
+web: python server.py
