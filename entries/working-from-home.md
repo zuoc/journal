@@ -5,7 +5,7 @@ lifestyle choice, that I highly recommend to anyone who finds working
 in an office to be a struggle.
 
 However, there are some downsides to working from home that I've been
-considering latley. Namely, the lack of social interaction throughout the
+considering lately. Namely, the lack of social interaction throughout the
 workday.
 
 When I first started working remotely, I was quite worried about this, so
