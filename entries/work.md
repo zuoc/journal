@@ -8,3 +8,5 @@ However, all work is play *&* all play is work.
 
 Time to get back to work. It's Monday morning.  
 Work from home Monday.  
+
+☤
