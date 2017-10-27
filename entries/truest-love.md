@@ -5,7 +5,7 @@ It's difficult to put into words what I want to convey — the layers unfolding 
 So, I'll just say it —and pray that it falls not on deaf ears:
 
 
-*I see you in me.  *
+*I see you in me.  *  
 *One soul, two bodies, one kingdom — eternally thine*
 
 *I am whole in myself, which fully contains and encapsulates your essence, blended with my own, and that I am  *
