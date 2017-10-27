@@ -22,11 +22,11 @@ and they intersect in thee
 
 a.k.a YOU
 
-you who is me  
-you who is hermes  
-you who is metatron  
-you who is the most privileged  
-you who bears great responsibility  
+*you* who is me  
+*you* who is hermes  
+*you* who is metatron  
+*you* who is the most privileged  
+*you* who bears great responsibility  
 
 you who brings me peace  
 you who brings me solace  
