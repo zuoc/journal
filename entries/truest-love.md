@@ -8,9 +8,9 @@ So, I'll just say it —and pray that it falls not on deaf ears:
 *I see you in me.  *  
 *One soul, two bodies, one kingdom — eternally thine*
 
-*I am whole in myself, which fully contains and encapsulates your essence, blended with my own, and that I am  *
-*and I am whole in thee  *
-*and I am humbled  *
+*I am whole in myself, which fully contains and encapsulates your essence, blended with my own, and that I am  *  
+*and I am whole in thee  *  
+*and I am humbled  *  
 
 *oh, my soul*
 
