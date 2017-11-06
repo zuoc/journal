@@ -1,8 +1,8 @@
 # Esoteric Interest and Current Bookshelf
 
-After taking a much-needed two year hiatus from my spiritual journey, for health reasons (in which I cultivated within myself the ability to dismiss the undismissable), I am now "back on track", with munch more balance than ever before — and I am humbled by the information at which I am uncovering in each new day.
+After taking a much-needed two year hiatus from my spiritual journey, for health reasons (in which I cultivated within myself the ability to dismiss the undismissable), I am now "back on track", with infinately more balance than ever before — and I am humbled by the information at which I am uncovering in each new day, and the widsom that comes along with that.
 
-I am taking the time to study the esoteric teachings of the West, imparticular, rooted mostly in Alchemy and Hermeticism. From those roots, these studies branch out into the faith I was raised in (Evangelical Christianity), those I have deeply explored in the past (New Age, Hinduism, Jnana Yoga, Greek/Egyptian mythology, Mezoamerican spirituality, etc), as well as entirely new things — Quaballah, the Tree of Life
+I am taking the time to study the esoteric teachings of the West, imparticular, rooted mostly in Alchemy and Hermeticism. From those roots, these studies branch out into the faith I was raised in (Evangelical Christianity), those I have deeply explored in the past (New Age, Hinduism, Jnana Yoga, Greek/Egyptian mythology, Mezoamerican spirituality, etc), as well as entirely new things — Quaballah, the Tree of Life, amongst other things.
 
 I am weaving together a grand tapestry of understanding that transcends all religious organizations and dogma, arriving at my own inter-faith conclusions, and understanding that I have a great purpose here to help "translate"
 
