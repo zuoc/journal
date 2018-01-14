@@ -2,7 +2,7 @@
 
 Almost every morning, I wake up and go to the coffee shop to get a morning’s worth of work done -- carrying with me, not a laptop, but my iPad Pro. 
 
-[This setup] has worked exceptionally well for me for well over a month. The iPad’s constraints help me stay focused on a task at hand, and using the device to be productive is mildly therapeutic, for some reason. 
+[This setup](https://www.kennethreitz.org/essays/working-with-icloud-macs-the-ipad-pro) has worked exceptionally well for me for well over a month. The iPad’s constraints help me stay focused on a task at hand, and using the device to be productive is mildly therapeutic, for some reason. 
 
 I’m currently typing this on a new Brydge 10.5 Keyboard for the iPad Pro, and I am finding this keyboard to be exceptionally fantastic. It really takes the "ultra-portable laptop" idea and runs with it, to a logical extreme. 
 
