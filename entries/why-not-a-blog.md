@@ -26,4 +26,4 @@ something that I want to emulate. A somewhat public conversation with one's self
 in a candid fashion, that simply shares tidbits of the innner workings of the
 author's world and mind.
 
-It certianly can't be harmful, now can it?
+It certainly can't be harmful, now can it?
