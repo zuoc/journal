@@ -7,7 +7,9 @@ Threads:
 - [Pipenv review, after using it in production](https://www.reddit.com/r/Python/comments/8jhtkh/pipenv_review_after_using_it_in_production/) (mostly great!)
 - [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.reddit.com/r/Python/comments/8jfmv8/kenneth_reitz_pipenv_the_future_of_python/) (mostly positive, some negativity)
 
-I mention negativity, because it sprung forth from some of these threads in a very aggressive manner, from some very (in these threads) vocal members of the **/r/python** community. It appears I have some haters out there. This is new to me.
+I mention negativity, because it sprung forth from some of these threads in a very aggressive manner, from some very (in these threads) vocal members of the **/r/python** community.
+
+It appears I have some haters out there. This is new to me.
 
 One comment, for example, struck me as extremely odd:
 
