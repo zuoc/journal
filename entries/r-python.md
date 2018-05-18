@@ -20,7 +20,7 @@ My response to this comment is — first off, my fame, while certainly categoriz
 
 Also, for the past 6.5 years, I have not had the most glorious job in the world. I consider myself to have been mildly underpaid, considering what I was responsible for — *the entire deployment experience (including uptime) of Python apps on Heroku, one of the largest deployment platforms in the world*.
 
-Also, “harming a very large number of people”? What? I’ve never harmed a soul with my influence — I use it to build the community up. I’m not \<insert an obvious name here\> from the Social Justice Warrior League. I’m Kenneth — a nice guy who builds nice tools and takes a lot of pictures.
+Also, “harming a very large number of people”? What? I’ve never harmed a soul with my influence — I use it to build the community up. I’m not a member of the Social Justice Warrior League (nothing against you if you are — you do you!). I’m Kenneth — a nice guy who builds nice tools and takes a lot of pictures.
 
 So, this comment is just off the rails, and deeply disturbs me.
 
