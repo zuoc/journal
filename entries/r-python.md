@@ -1,4 +1,5 @@
-# A Letter to /r/python (with some notes about bipolar disorder)
+# A Letter to /r/python
+## (with some notes about bipolar disorder)
 
 There were a few recent threads that occurred in [/r/python](https://reddit.com/r/python) which greatly disturbed me, because of their general tone towards both me, and a tool that I’ve been toiling on very hard over the past year and a half.
 
