@@ -50,7 +50,7 @@ Some facts:
 - If you don't like the workflow that Pipenv offers, simply stick with what you love! For example: use pip / virtualenv! Don’t overwhelm me on Reddit with your opinions of how it should be different and your justifications for why. We’re a year and half into this project, with a team of 5 highly time–constrained individuals doing our best to keep up with the *expectations* of an ever-growing audience (170,000 installs this month).
 - Packing tools are **hard**. They require a deep understanding of Python infrastructure to build, are extremely difficult to test, and even harder to maintain. People have *extremely* variant setups. Run `$ python -m pipenv.help` sometime to get an idea for the type of information we're dealing with on a given system. It's insane.
 
-Of all the work I’ve created, I’m most proud of Pipenv. More than I am of Requests. Pipenv was much more difficult to create, and even harder to maintain. Much. And, it has the potential to shape the future of Python in a way that Requests does not.
+Of all the work I’ve created, I’m most proud of Pipenv — more than I am of Requests. Pipenv was much more difficult to create, and even harder to maintain. Much. And, it has the potential to shape the future of Python in a way that Requests does not.
 
 So — thank you for your time, and thank you for listening to my thoughts and perspective.
 
