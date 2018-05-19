@@ -61,3 +61,5 @@ I love you all — even if some of you don't love me anymore.
 
 ✨🍰✨
 
+P.S. I'm hosting a [Google Hangouts](https://hangouts.google.com/hangouts/_/kennethreitz.org/pipenv) session today, if anyone would like to speak to me about any of these topics.
+
