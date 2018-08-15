@@ -1,3 +1,5 @@
+# Dear Manager
+
 <insert manager's name here>,
 
 As I mentioned in our last 1:1, I have (a typically very well controlled and balanced) bipolar disorder. I’ve had a very successful year, thus far, and am honestly very proud of the balance I’ve maintained in 2017. It requires increasing amounts of self-awareness and psychological mechanisms that I’ve cultivated over the past several years, and I feel as though I’ve exercised them, successfully, to the best of my ability.
